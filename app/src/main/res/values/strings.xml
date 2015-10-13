@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CoreBack</string>
+    <string name="click">CLICK!</string>
+    <string name="clickOff">off</string>
 </resources>
